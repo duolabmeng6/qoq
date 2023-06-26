@@ -2,10 +2,9 @@
 
 
 
-# [最新版下载](https://github.com/duolabmeng6/qoq/releases)
+# [Window 最新版下载](https://github.com/duolabmeng6/qoq/releases)
 
-
-
+# [Mac OS 最新版下载](https://github.com/duolabmeng6/qoq/releases](https://github.com/duolabmeng6/go-qoq) 
 # Window 界面预览
 
 ![img](README.assets/未命名项目.gif)
